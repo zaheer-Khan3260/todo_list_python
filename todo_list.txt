@@ -1,0 +1,18 @@
+{
+    "zaheer": [
+        {
+            "task": "playing pubg on 3 pm",
+            "completed": false
+        },
+        {
+            "task": "learing python from hitesh chaudhary",
+            "completed": false
+        }
+    ],
+    "vishal": [
+        {
+            "task": "update mails",
+            "completed": true
+        }
+    ]
+}
